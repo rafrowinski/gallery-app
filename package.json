@@ -1,0 +1,19 @@
+{
+  "name": "gallery-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafrowinski/gallery-app.git"
+  },
+  "author": "Rafał Rowiński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafrowinski/gallery-app/issues"
+  },
+  "homepage": "https://github.com/rafrowinski/gallery-app#readme"
+}
